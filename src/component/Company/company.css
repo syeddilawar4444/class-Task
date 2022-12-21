@@ -1,0 +1,21 @@
+input{
+    border-radius: 5px;
+    border: 2px solid white;
+    outline: none;
+    color: black;
+    padding: 10px;
+    background: none;
+}
+input::placeholder{
+    text-transform: uppercase;
+    color: darkgray;
+  
+}
+label{
+    font-size: 20px;
+}
+.black{
+    background-color: gray;
+    padding: 40px;
+
+}
